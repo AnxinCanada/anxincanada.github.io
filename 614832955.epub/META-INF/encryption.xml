@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:encryption xmlns:c="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:d="http://www.w3.org/2000/09/xmldsig#" xmlns:e="http://www.w3.org/2001/04/xmlenc#">
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/page-template.xpgt"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/default.css"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/cover.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0003_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0011_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0019_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0028_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0030_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0031_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0038_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0039_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0044_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0053_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0054_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0057_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0063_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0067_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0081_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0082_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0094_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0095_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0095_002.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0096_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0096_002.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0097_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0098_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0109_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0121_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0144_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0155_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0158_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0159_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0161_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0162_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0164_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0171_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0173_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0173_002.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0183_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0193_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0196_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0203_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0216_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0219_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0227_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0238_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0250_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0252_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0256_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0277_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0277_002.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0282_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0283_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0284_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/images/9781400318421_INT_0287_001.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c0_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c1_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c2_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c3_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c4_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c14_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c15_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c16_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c17_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c18_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c19_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c20_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c21_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c22_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c23_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c24_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c25_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c26_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c27_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c28_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c29_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Angl_9781400321421_epub_c30_r1.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+</c:encryption>

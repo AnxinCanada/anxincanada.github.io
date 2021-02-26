@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="ISBN9781400321421"
+         version="2.0">
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>Sneak</dc:title>
+      <dc:creator>Evan Angler</dc:creator>
+      <dc:publisher>Thomas Nelson</dc:publisher>
+      <dc:format/>
+      <dc:date>2012-07-23</dc:date>
+      <dc:subject>ebook</dc:subject>
+      <dc:subject>book</dc:subject>
+      <dc:rights>2012</dc:rights>
+      <dc:identifier id="ISBN9781400321421">9781400321421</dc:identifier>
+      <dc:language>en</dc:language>
+      <meta name="cover" content="img_1"/>
+   </metadata>
+   <manifest>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item id="pt" href="page-template.xpgt"
+            media-type="application/vnd.adobe.page-template+xml"/>
+      <item id="style" href="default.css" media-type="text/css"/>
+      <item id="img_1" href="images/cover.jpg" media-type="image/jpeg"/>
+      <item id="img_2" href="images/9781400318421_INT_0003_001.jpg" media-type="image/jpeg"/>
+      <item id="img_3" href="images/9781400318421_INT_0011_001.jpg" media-type="image/jpeg"/>
+      <item id="img_4" href="images/9781400318421_INT_0019_001.jpg" media-type="image/jpeg"/>
+      <item id="img_5" href="images/9781400318421_INT_0028_001.jpg" media-type="image/jpeg"/>
+      <item id="img_6" href="images/9781400318421_INT_0030_001.jpg" media-type="image/jpeg"/>
+      <item id="img_7" href="images/9781400318421_INT_0031_001.jpg" media-type="image/jpeg"/>
+      <item id="img_8" href="images/9781400318421_INT_0038_001.jpg" media-type="image/jpeg"/>
+      <item id="img_9" href="images/9781400318421_INT_0039_001.jpg" media-type="image/jpeg"/>
+      <item id="img_10" href="images/9781400318421_INT_0044_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_11" href="images/9781400318421_INT_0053_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_12" href="images/9781400318421_INT_0054_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_13" href="images/9781400318421_INT_0057_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_14" href="images/9781400318421_INT_0063_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_15" href="images/9781400318421_INT_0067_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_16" href="images/9781400318421_INT_0081_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_17" href="images/9781400318421_INT_0082_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_18" href="images/9781400318421_INT_0094_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_19" href="images/9781400318421_INT_0095_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_20" href="images/9781400318421_INT_0095_002.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_21" href="images/9781400318421_INT_0096_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_22" href="images/9781400318421_INT_0096_002.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_23" href="images/9781400318421_INT_0097_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_24" href="images/9781400318421_INT_0098_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_25" href="images/9781400318421_INT_0109_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_26" href="images/9781400318421_INT_0121_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_27" href="images/9781400318421_INT_0144_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_28" href="images/9781400318421_INT_0155_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_29" href="images/9781400318421_INT_0158_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_30" href="images/9781400318421_INT_0159_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_31" href="images/9781400318421_INT_0161_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_32" href="images/9781400318421_INT_0162_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_33" href="images/9781400318421_INT_0164_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_34" href="images/9781400318421_INT_0171_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_35" href="images/9781400318421_INT_0173_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_36" href="images/9781400318421_INT_0173_002.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_37" href="images/9781400318421_INT_0183_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_38" href="images/9781400318421_INT_0193_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_39" href="images/9781400318421_INT_0196_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_40" href="images/9781400318421_INT_0203_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_41" href="images/9781400318421_INT_0216_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_42" href="images/9781400318421_INT_0219_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_43" href="images/9781400318421_INT_0227_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_44" href="images/9781400318421_INT_0238_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_45" href="images/9781400318421_INT_0250_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_46" href="images/9781400318421_INT_0252_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_47" href="images/9781400318421_INT_0256_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_48" href="images/9781400318421_INT_0277_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_49" href="images/9781400318421_INT_0277_002.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_50" href="images/9781400318421_INT_0282_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_51" href="images/9781400318421_INT_0283_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_52" href="images/9781400318421_INT_0284_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="img_53" href="images/9781400318421_INT_0287_001.jpg"
+            media-type="image/jpeg"/>
+      <item id="Angl_9781400321421_epub_c0_r1" href="Angl_9781400321421_epub_c0_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c1_r1" href="Angl_9781400321421_epub_c1_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c2_r1" href="Angl_9781400321421_epub_c2_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c3_r1" href="Angl_9781400321421_epub_c3_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c4_r1" href="Angl_9781400321421_epub_c4_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c14_r1" href="Angl_9781400321421_epub_c14_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c15_r1" href="Angl_9781400321421_epub_c15_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c16_r1" href="Angl_9781400321421_epub_c16_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c17_r1" href="Angl_9781400321421_epub_c17_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c18_r1" href="Angl_9781400321421_epub_c18_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c19_r1" href="Angl_9781400321421_epub_c19_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c20_r1" href="Angl_9781400321421_epub_c20_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c21_r1" href="Angl_9781400321421_epub_c21_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c22_r1" href="Angl_9781400321421_epub_c22_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c23_r1" href="Angl_9781400321421_epub_c23_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c24_r1" href="Angl_9781400321421_epub_c24_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c25_r1" href="Angl_9781400321421_epub_c25_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c26_r1" href="Angl_9781400321421_epub_c26_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c27_r1" href="Angl_9781400321421_epub_c27_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c28_r1" href="Angl_9781400321421_epub_c28_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c29_r1" href="Angl_9781400321421_epub_c29_r1.html"
+            media-type="application/xhtml+xml"/>
+      <item id="Angl_9781400321421_epub_c30_r1" href="Angl_9781400321421_epub_c30_r1.html"
+            media-type="application/xhtml+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="Angl_9781400321421_epub_c0_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c1_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c2_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c3_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c4_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c14_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c15_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c16_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c17_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c18_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c19_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c20_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c21_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c22_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c23_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c24_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c25_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c26_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c27_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c28_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c29_r1"/>
+      <itemref idref="Angl_9781400321421_epub_c30_r1"/>
+   </spine>
+   <guide>
+      <reference type="cover" title="Cover Page" href="Angl_9781400321421_epub_c0_r1.html"/>
+      <reference type="title-page" title="Title Page" href="Angl_9781400321421_epub_c3_r1.html"/>
+      <reference type="copyright" title="Copyright Page"
+                 href="Angl_9781400321421_epub_c4_r1.html"/>
+      <reference type="dedication" title="Dedication" href="Angl_9781400321421_epub_c14_r1.html"/>
+      <reference type="toc" title="Contents" href="Angl_9781400321421_epub_c15_r1.html"/>
+      <reference type="text" title="A NOTE FROM THE AUTHOR"
+                 href="Angl_9781400321421_epub_c16_r1.html"/>
+      <reference type="text" title="PROLOGUE 07:16:32"
+                 href="Angl_9781400321421_epub_c17_r1.html"/>
+      <reference type="text" title="ONE NEW CHICAGO, NEW RULES"
+                 href="Angl_9781400321421_epub_c18_r1.html"/>
+      <reference type="text" title="TWO WHERE ERIN COMES IN"
+                 href="Angl_9781400321421_epub_c19_r1.html"/>
+      <reference type="text" title="THREE THE SETUP"
+                 href="Angl_9781400321421_epub_c20_r1.html"/>
+      <reference type="text" title="FOUR SHOT IN THE DARK"
+                 href="Angl_9781400321421_epub_c21_r1.html"/>
+      <reference type="text" title="FIVE THE AFTERMATH"
+                 href="Angl_9781400321421_epub_c22_r1.html"/>
+      <reference type="text" title="SIX THE RIVER CODE"
+                 href="Angl_9781400321421_epub_c23_r1.html"/>
+      <reference type="text" title="SEVEN HOUSE ARREST"
+                 href="Angl_9781400321421_epub_c24_r1.html"/>
+      <reference type="text" title="EIGHT CITY ON THE HILL"
+                 href="Angl_9781400321421_epub_c25_r1.html"/>
+      <reference type="text" title="NINE BEACON&#8217;S SHADOW"
+                 href="Angl_9781400321421_epub_c26_r1.html"/>
+      <reference type="text" title="TEN ACHERON"
+                 href="Angl_9781400321421_epub_c27_r1.html"/>
+      <reference type="text" title="ELEVEN FOXHOLE"
+                 href="Angl_9781400321421_epub_c28_r1.html"/>
+      <reference type="text" title="TWELVE MARKED"
+                 href="Angl_9781400321421_epub_c29_r1.html"/>
+      <reference type="text" title="ABOUT THE AUTHOR"
+                 href="Angl_9781400321421_epub_c30_r1.html"/>
+   </guide>
+</package>

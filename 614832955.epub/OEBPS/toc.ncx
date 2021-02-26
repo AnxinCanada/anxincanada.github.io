@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="9781400318421_int_i"/>
+<meta name="dtb:depth" content="2"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+<text>Sneak: The Swipe Series</text>
+</docTitle>
+<navMap>
+
+<navPoint id="c0" playOrder="1">
+<navLabel>
+<text>COVER PAGE</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c0_r1.html"/>
+</navPoint>
+
+<navPoint id="c3" playOrder="2">
+<navLabel>
+<text>TITLE PAGE</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c3_r1.html"/>
+</navPoint>
+
+<navPoint id="c4" playOrder="3">
+<navLabel>
+<text>COPYRIGHT PAGE</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c4_r1.html"/>
+</navPoint>
+
+<navPoint id="c14" playOrder="4">
+<navLabel>
+<text>DEDICATION</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c14_r1.html"/>
+</navPoint>
+
+<navPoint id="d14" playOrder="5">
+<navLabel>
+<text>CONTENTS</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c15_r1.html"/>
+</navPoint>
+
+<navPoint id="d6e1" playOrder="6">
+<navLabel>
+<text>A NOTE FROM THE AUTHOR</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c16_r1.html#d7e1"/>
+</navPoint>
+
+<navPoint id="d6e2" playOrder="7">
+<navLabel>
+<text>PROLOGUE: 07:16:32</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c17_r1.html#d7e2"/>
+</navPoint>
+
+<navPoint id="d6e3" playOrder="8">
+<navLabel>
+<text>ONE: NEW CHICAGO, NEW RULES</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c18_r1.html#d7e3"/>
+</navPoint>
+
+<navPoint id="d6e4" playOrder="9">
+<navLabel>
+<text>TWO: WHERE ERIN COMES IN</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c19_r1.html#d7e4"/>
+</navPoint>
+
+<navPoint id="d6e5" playOrder="10">
+<navLabel>
+<text>THREE: THE SETUP</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c20_r1.html#d7e5"/>
+</navPoint>
+
+<navPoint id="d6e6" playOrder="11">
+<navLabel>
+<text>FOUR: SHOT IN THE DARK</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c21_r1.html#d7e6"/>
+</navPoint>
+
+<navPoint id="d6e7" playOrder="12">
+<navLabel>
+<text>FIVE: THE AFTERMATH</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c22_r1.html#d7e7"/>
+</navPoint>
+
+<navPoint id="d6e8" playOrder="13">
+<navLabel>
+<text>SIX: THE RIVER CODE</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c23_r1.html#d7e8"/>
+</navPoint>
+
+<navPoint id="d6e9" playOrder="14">
+<navLabel>
+<text>SEVEN: HOUSE ARREST</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c24_r1.html#d7e9"/>
+</navPoint>
+
+<navPoint id="d6e10" playOrder="15">
+<navLabel>
+<text>EIGHT: CITY ON THE HILL</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c25_r1.html#d7e10"/>
+</navPoint>
+
+<navPoint id="d6e11" playOrder="16">
+<navLabel>
+<text>NINE: BEACON&#8217;S SHADOW</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c26_r1.html#d7e11"/>
+</navPoint>
+
+<navPoint id="d6e12" playOrder="17">
+<navLabel>
+<text>TEN: ACHERON</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c27_r1.html#d7e12"/>
+</navPoint>
+
+<navPoint id="d6e13" playOrder="18">
+<navLabel>
+<text>ELEVEN: FOXHOLE</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c28_r1.html#d7e13"/>
+</navPoint>
+
+<navPoint id="d6e14" playOrder="19">
+<navLabel>
+<text>TWELVE: MARKED</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c29_r1.html#d7e14"/>
+</navPoint>
+
+<navPoint id="d6e15" playOrder="20">
+<navLabel>
+<text>ABOUT THE AUTHOR</text>
+</navLabel>
+<content src="Angl_9781400321421_epub_c30_r1.html#d7e15"/>
+</navPoint>
+
+</navMap>
+</ncx>

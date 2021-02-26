@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apple-id</key>
+	<string>kelvinpxq@gmail.com</string>
+	<key>artistId</key>
+	<integer>502071894</integer>
+	<key>artistName</key>
+	<string>Evan Angler</string>
+	<key>asset-info</key>
+	<dict>
+		<key>file-size</key>
+		<integer>1731395</integer>
+		<key>flavor</key>
+		<string>pub</string>
+	</dict>
+	<key>book-info</key>
+	<dict>
+		<key>PageProgression</key>
+		<string>default</string>
+		<key>asset-info</key>
+		<dict>
+			<key>file-size</key>
+			<integer>1731395</integer>
+			<key>flavor</key>
+			<string>pub</string>
+		</dict>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>E7103E3C2E827612773BE14589518A51</string>
+		<key>publication-version</key>
+		<integer>2982168</integer>
+		<key>publisher-unique-id</key>
+		<string>9781400321421</string>
+		<key>unique-id</key>
+		<integer>-8119536402230834953</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>cover-writing-mode</key>
+	<string>horizontal</string>
+	<key>desktopSupportLevel</key>
+	<string>supported</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>explicit</key>
+	<integer>2</integer>
+	<key>fileExtension</key>
+	<string>epub</string>
+	<key>genre</key>
+	<string>Action &amp; Adventure</string>
+	<key>genreId</key>
+	<integer>11178</integer>
+	<key>isbn</key>
+	<string>9781400321421</string>
+	<key>itemId</key>
+	<integer>614832955</integer>
+	<key>itemName</key>
+	<string>Sneak</string>
+	<key>kind</key>
+	<string>ebook</string>
+	<key>longDescription</key>
+	<string>“Apocalyptic dystopian fiction at its best. Angler’s sharp wit and dexterity with political themes are matched only by the thrilling suspense on every page.” —Lis Wiehl, &lt;i&gt;New York Times&lt;/i&gt; bestselling author and FOX News correspondent&lt;br /&gt;&lt;br /&gt;&lt;b&gt;In a future United States under the power of a charismatic leader, everyone gets the Mark at age thirteen. The Mark lets citizen shop, go to school, and even get medical care—but without it, you are on your own. Few refuse to get the Mark. Those who do . . . disappear.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Logan Langly went in to get his Mark, but he backed out at the last minute.&amp;#xa0; Now he’s on the run from government agents who will stop at nothing to capture him. But Logan is on a mission to find and save his sister, Lily, who disappeared five years ago on her thirteenth birthday, the day she was supposed to receive her Mark. &lt;br /&gt;&lt;br /&gt;Logan and his friends, a group of dissenters called the Dust, discover a vast network of the Unmarked, who help them travel safely to the capital city where Lily is imprisoned. Along the way, the Dust receives some startling information from the Markless community,&amp;#xa0;opening their eyes to the message of Christianity and warning that humanity is now entering the End of Days.&lt;br /&gt;&lt;br /&gt;When the Dust finally arrives in the capital, it seems that all their careful planning is useless against a government that will do anything to bend its citizens to its will. Can the gentle words Logan has found in a tattered, banned Bible really stand against the most powerful military the world has ever known? Can Logan even sacrifice his own freedom, choosing to act through faith alone?</string>
+	<key>obeyPageBreaks</key>
+	<integer>1</integer>
+	<key>pageCount</key>
+	<integer>288</integer>
+	<key>primaryLanguage</key>
+	<string>en</string>
+	<key>publisher</key>
+	<string>Thomas Nelson</string>
+	<key>purchaseDate</key>
+	<string>2021-01-25T22:08:44Z</string>
+	<key>releaseDate</key>
+	<string>2012-09-03T07:00:00Z</string>
+	<key>s</key>
+	<integer>143455</integer>
+	<key>scroll-axis</key>
+	<string>default</string>
+	<key>seriesAdamId</key>
+	<integer>719932247</integer>
+	<key>seriesSequenceDisplaySuppress</key>
+	<false/>
+	<key>seriesSequenceNumber</key>
+	<string>2</string>
+	<key>seriesTitle</key>
+	<string>Swipe Series</string>
+	<key>shouldDisableOptimizeSpeed</key>
+	<false/>
+	<key>shouldDisableTouchEmulation</key>
+	<false/>
+	<key>sort-artist</key>
+	<string>Angler, Evan</string>
+	<key>sort-name</key>
+	<string>Sneak</string>
+	<key>vendorId</key>
+	<integer>340992</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+	<key>year</key>
+	<integer>2012</integer>
+</dict>
+</plist>
